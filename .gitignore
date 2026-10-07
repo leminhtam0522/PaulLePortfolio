@@ -1,0 +1,13 @@
+# Dependencies and temporary packages
+node_modules/
+package.json
+package-lock.json
+*.log
+
+# System and OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local backup files
+*.backup.html
